@@ -1,0 +1,42 @@
+{
+  "competitors": [
+    {
+      "id": 1,
+      "firstName": "Gabriel",
+      "lastName": "Mazieri",
+      "gender": "Masculino",
+      "weight": 136,
+      "height": 193
+    },
+    {
+      "id": 2,
+      "firstName": "Rafael",
+      "lastName": "Mazieri",
+      "gender": "Masculino",
+      "weight": 95,
+      "height": 186
+    },
+    {
+      "nome": "teste",
+      "sexo": "Masculino",
+      "TemperaturaMediaCorpo": "0.0",
+      "Peso": "0.00",
+      "Altura": "0.00",
+      "id": 2
+    }
+  ],
+  "HistoricoCorrida": [
+    {
+      "Competidorid": 1,
+      "PistaCorridaid": 1,
+      "DataCorrida": "21/07/2021",
+      "TempoGasto": 300
+    }
+  ],
+  "PistaCorrida": [
+    {
+      "id": 1,
+      "Descricao": "Avenida tal da cidade tal"
+    }
+  ]
+}
